@@ -5,7 +5,7 @@
       "module-resolver",
       {
         "cwd": "babelrc",
-        "root": [".src/"],
+        "root": ["./src"],
         "extensions": [".js", ".android.js", ".ios.js"]  
         }
     ]
